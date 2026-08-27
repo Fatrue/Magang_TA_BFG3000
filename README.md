@@ -1,7 +1,10 @@
 # Magang_TA_BFG3000
 Magang
-Pembimbing lapang: bu Chery Soraya Ammatillah
-Tipe tugas akhir: Prototipe – prototipe fisik(?)
+
+  Pembimbing lapang: bu Chery Soraya Ammatillah
+  
+  Tipe tugas akhir: Prototipe – prototipe fisik(?)
+  
 # Opsi Projek Magang/TA:
 1.	IoT Hidroponik Green House: projekan kating sebelumnya (Raga), monitoring suhu kelembapan dsb untuk memantau tanaman hidroponik. Belum selesai, gadilanjut karena kating disuruh ganti topik. Dari pihak brmp juga belom tau cara kerja nya. (ini tetep bakal dikerjain harusnya)
 
