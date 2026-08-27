@@ -6,10 +6,11 @@ Magang
 1.	IoT Hidroponik Green House: projekan kating sebelumnya (Raga), monitoring suhu kelembapan dsb untuk memantau tanaman hidroponik. Belum selesai, gadilanjut karena kating disuruh ganti topik. Dari pihak brmp juga belom tau cara kerja nya. (ini tetep bakal dikerjain harusnya)
 
 2.	Panel surya, tadi dicek baterainya dicopot, jadi sekarang sistemnya pakai listrik, paling nanti dikembangin lagi. (ini tetep bakal dikerjain harusnya)
+
 Kemungkinan masalah:
-a.	panelnya ukuruanya berpaa dan kwhnya berpaa kuat apa ngga untuk si mesinya
-b.	si tranferter dari tenaga panel surya ke listrinya gimana
-c.	batrainya kesehatanya gimana sama dia pake ukuran yg berpaa
+  a.	panelnya ukuruanya berpaa dan kwhnya berpaa kuat apa ngga untuk si mesinya
+  b.	si tranferter dari tenaga panel surya ke listrinya gimana
+  c.	batrainya kesehatanya gimana sama dia pake ukuran yg berpaa
 mesti ditanyaain dulu ke pak yosep Green House
 
 3.	Tanaman bawang yang didinding samping gedung: lebih layu dari yang lain. posisinya di samping gedung, jadi dapat sinar mataharinya paling Cuma sampe jam 10. Tanaman bawang memang perlu banyak sinar matahari. Sempet ada ide pake sinar uv, tapi pemasangannya agak bingung
